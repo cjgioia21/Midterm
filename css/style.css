@@ -1,0 +1,48 @@
+header{
+    background-color: deeppink;
+}
+aside{
+    float: right;
+    background-color: purple;
+    margin-right: 20px;
+    padding-right: 15px;
+    padding-left: 22.5px;
+    font-size: 25px;
+    color: aqua;
+}
+h1{
+    color: blue;
+    font-size: 40px;
+}
+h2{
+    font-size: 25px;
+    color: aqua;
+}
+main{
+    float: left;
+    background-color: purple;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 22.5px;
+    font-size: 25px;
+    color: aqua;
+}
+.structural{
+    border: 5px solid rgb(20, 121, 171);
+}
+
+footer p{
+    font-size: .75em;
+}
+footer{
+    clear: both;
+    background-color: hsl(0, 0%, 100%);
+}
+a:link {
+    color: red;
+}
+a:hover {
+    color: hotpink;
+}
+
+
